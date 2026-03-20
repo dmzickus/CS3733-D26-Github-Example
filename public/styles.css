@@ -10,6 +10,12 @@ td {
 	justify-content: center;
 }
 thead {
+    color: red;
+}
+
+.dylan {
+    color: blue;
+}
 	color: red;
 }
 
